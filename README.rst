@@ -22,7 +22,7 @@ Package Helper 2 Test
 
 
 
-Package Helper 2 Test is a test of Package Helper 2. It is very nice.
+Package Helper 2 Test is a test of Package Helper 2. It is very nice. And very beautiful.
 
 
 * Free software: GNU General Public License v3
